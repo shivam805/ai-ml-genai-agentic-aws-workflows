@@ -1,0 +1,3 @@
+Employees in Engineering earn an average salary of 84000 USD per year.
+Engineering has 12 people in the team.
+The highest paid employee in Engineering is Matthew Moore with 136000 USD.

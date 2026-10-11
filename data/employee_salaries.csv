@@ -1,0 +1,61 @@
+employee_id,name,domain,country,experience_years,salary_usd
+E001,Aarav Sharma,Engineering,India,3,26500
+E002,Priya Patel,Data Science,India,8,35500
+E003,Rohan Mehta,Finance,India,0,21000
+E004,Ananya Iyer,HR,India,5,21000
+E005,Vikram Singh,Marketing,India,10,26000
+E006,Neha Gupta,Engineering,India,2,27500
+E007,Arjun Reddy,Data Science,India,7,34500
+E008,Kavya Nair,Finance,India,12,31000
+E009,Rahul Verma,HR,India,4,20000
+E010,Sneha Joshi,Marketing,India,9,25000
+E011,Karan Malhotra,Engineering,India,1,26000
+E012,Pooja Desai,Data Science,India,6,33000
+E013,James Miller,Finance,USA,11,111000
+E014,Emily Johnson,HR,USA,3,70500
+E015,Michael Brown,Marketing,USA,8,98000
+E016,Sarah Davis,Engineering,USA,0,93000
+E017,David Wilson,Data Science,USA,5,117000
+E018,Jessica Taylor,Finance,USA,10,107000
+E019,Daniel Anderson,HR,USA,2,67500
+E020,Ashley Thomas,Marketing,USA,7,94500
+E021,Matthew Moore,Engineering,USA,12,136000
+E022,Olivia Martin,Data Science,USA,4,112000
+E023,Andrew Jackson,Finance,USA,9,103000
+E024,Megan White,HR,USA,1,70500
+E025,Oliver Smith,Marketing,UK,6,76500
+E026,Amelia Jones,Engineering,UK,11,111000
+E027,Harry Williams,Data Science,UK,3,90500
+E028,Isla Evans,Finance,UK,8,83500
+E029,Jack Thompson,HR,UK,0,56500
+E030,Sophie Roberts,Marketing,UK,5,73500
+E031,George Walker,Engineering,UK,10,106500
+E032,Lily Wright,Data Science,UK,2,86500
+E033,Thomas Hall,Finance,UK,7,88000
+E034,Grace Green,HR,UK,12,83000
+E035,Charlie Baker,Marketing,UK,4,70000
+E036,Ruby Clarke,Engineering,UK,9,102500
+E037,Lukas Schmidt,Data Science,Germany,1,82500
+E038,Anna Mueller,Finance,Germany,6,84500
+E039,Felix Weber,HR,Germany,11,80000
+E040,Laura Fischer,Marketing,Germany,3,67000
+E041,Jonas Wagner,Engineering,Germany,8,98500
+E042,Lena Becker,Data Science,Germany,0,86000
+E043,Paul Hoffmann,Finance,Germany,5,81000
+E044,Marie Schulz,HR,Germany,10,77000
+E045,Leon Koch,Marketing,Germany,2,64000
+E046,Sophia Richter,Engineering,Germany,7,94500
+E047,Maximilian Klein,Data Science,Germany,12,126000
+E048,Emma Wolf,Finance,Germany,4,77500
+E049,Liam Tremblay,HR,Canada,9,70500
+E050,Chloe Roy,Marketing,Canada,1,58500
+E051,Noah Gagnon,Engineering,Canada,6,95000
+E052,Zoe Bouchard,Data Science,Canada,11,115500
+E053,Ethan Cote,Finance,Canada,3,70500
+E054,Mia Fortin,HR,Canada,8,68000
+E055,Lucas Gauthier,Marketing,Canada,0,55500
+E056,Ella Morin,Engineering,Canada,5,91000
+E057,Mason Lavoie,Data Science,Canada,10,111500
+E058,Ava Pelletier,Finance,Canada,2,67500
+E059,Owen Bergeron,HR,Canada,7,65000
+E060,Nora Leblanc,Marketing,Canada,12,89000

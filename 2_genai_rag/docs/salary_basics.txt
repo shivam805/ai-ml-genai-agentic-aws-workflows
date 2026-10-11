@@ -1,0 +1,4 @@
+Salary basics.
+Gross salary is the full yearly pay before tax. Take-home salary is what you get after tax.
+For example, with a gross salary of 100000 and tax of 20 percent, the take-home is 80000.
+Salary usually grows with years of experience.

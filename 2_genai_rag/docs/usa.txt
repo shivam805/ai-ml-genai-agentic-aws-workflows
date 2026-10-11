@@ -1,0 +1,3 @@
+Employees in USA earn an average salary of 98333 USD per year.
+USA has 12 people in the team.
+The highest paid employee in USA is Matthew Moore with 136000 USD.

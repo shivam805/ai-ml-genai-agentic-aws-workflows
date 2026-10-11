@@ -1,0 +1,3 @@
+Employees in Marketing earn an average salary of 66458 USD per year.
+Marketing has 12 people in the team.
+The highest paid employee in Marketing is Michael Brown with 98000 USD.

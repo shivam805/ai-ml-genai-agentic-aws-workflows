@@ -1,0 +1,3 @@
+Employees in Data Science earn an average salary of 85875 USD per year.
+Data Science has 12 people in the team.
+The highest paid employee in Data Science is Maximilian Klein with 126000 USD.

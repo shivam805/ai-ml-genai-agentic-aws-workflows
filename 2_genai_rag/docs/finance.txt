@@ -1,0 +1,3 @@
+Employees in Finance earn an average salary of 77125 USD per year.
+Finance has 12 people in the team.
+The highest paid employee in Finance is James Miller with 111000 USD.

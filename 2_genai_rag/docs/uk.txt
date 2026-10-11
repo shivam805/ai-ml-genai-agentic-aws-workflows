@@ -1,0 +1,3 @@
+Employees in UK earn an average salary of 85667 USD per year.
+UK has 12 people in the team.
+The highest paid employee in UK is Amelia Jones with 111000 USD.

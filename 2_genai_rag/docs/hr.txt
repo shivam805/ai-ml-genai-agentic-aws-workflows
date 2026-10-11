@@ -1,0 +1,3 @@
+Employees in HR earn an average salary of 62458 USD per year.
+HR has 12 people in the team.
+The highest paid employee in HR is Grace Green with 83000 USD.
